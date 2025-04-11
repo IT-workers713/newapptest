@@ -15,7 +15,7 @@ Interface moderne inspirée de Dribbble
 🚀 Démarrer le projet
 
 1. Cloner le repo et accéder au dossier
-   https://github.com/IT-workers713/newsapi22.git
+   https://github.com/IT-workers713/newapptest.git
    cd news_app
 2. Installer les dépendances
    flutter pub get
